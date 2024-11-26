@@ -1,9 +1,9 @@
 const cacheName = "DefaultCompany-Doppelganger-0.1";
 const contentToCache = [
     "Build/BuildsWebGL.loader.js",
-    "Build/BuildsWebGL.framework.js.gz",
-    "Build/BuildsWebGL.data.gz",
-    "Build/BuildsWebGL.wasm.gz",
+    "Build/BuildsWebGL.framework.js",
+    "Build/BuildsWebGL.data",
+    "Build/BuildsWebGL.wasm",
     "TemplateData/style.css"
 
 ];
